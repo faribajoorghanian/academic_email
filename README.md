@@ -1,0 +1,2 @@
+# academicmail
+academic email generator
